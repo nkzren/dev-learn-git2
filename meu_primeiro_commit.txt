@@ -6,5 +6,3 @@ fazendo uma modificacao na branch
 
 forcando conflito na main
 
-modificacao de teste rebase
-
