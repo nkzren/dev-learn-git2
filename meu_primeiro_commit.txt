@@ -3,3 +3,5 @@ ola git
 um commit feito depois da branch criada
 
 fazendo uma modificacao na branch
+
+forcando conflito na main
